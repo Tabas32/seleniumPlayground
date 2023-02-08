@@ -1,0 +1,14 @@
+Resources:
+
+Selenium official, how to set up selenium:
+https://www.selenium.dev/documentation/webdriver/getting_started/
+
+selenium install web driver: https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+
+WebDriverManager:
+https://bonigarcia.dev/webdrivermanager/
+
+WebDriver documentation:
+https://www.selenium.dev/documentation/webdriver/drivers/
+https://w3c.github.io/webdriver/#new-session
+https://www.selenium.dev/documentation/webdriver/waits/
